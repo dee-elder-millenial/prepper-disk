@@ -1,0 +1,9 @@
+document_or_account,category,agency_or_provider,priority,status,date_started,next_action,due_date,case_or_reference_number,notes
+Driver license or state ID,government ID,state DMV,1,not started,YYYY-MM-DD,Schedule replacement,,,"Do not store ID number or scan here"
+Passport,government ID,U.S. State Department,2,not started,YYYY-MM-DD,Report lost/stolen if needed,,,"Do not store passport number or scan here"
+Social Security card,government ID,Social Security Administration,2,not started,YYYY-MM-DD,Check official replacement process,,,"Do not store SSN here"
+Primary bank card,banking,bank/card issuer,1,not started,YYYY-MM-DD,Freeze or replace card,,,"Do not store card number here"
+Phone number/SIM,phone,carrier,1,not started,YYYY-MM-DD,Suspend stolen SIM or activate replacement,,,"Do not store account PIN here"
+Primary email,email,email provider,1,not started,YYYY-MM-DD,Review recovery and sessions,,,"Do not store passwords or recovery codes here"
+Credit freezes,identity,credit bureaus,2,not started,YYYY-MM-DD,Freeze or fraud alert decision,,,"Do not store freeze PINs here"
+Insurance claim,insurance,insurance carrier,2,not started,YYYY-MM-DD,Open or update claim,,,"Do not store policy scans here"

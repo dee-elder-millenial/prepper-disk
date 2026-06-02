@@ -1,0 +1,8 @@
+name_or_role,organization,category,phone,email,website,when_to_contact,notes
+Emergency services,Local emergency,physical safety,911,,,"Immediate danger, fire, medical emergency",United States emergency number
+Primary email provider,Provider,email,,,"official site only","Account recovery or suspicious login",Do not store passwords or codes here
+Phone carrier,Carrier,phone,,,"official site only","Lost phone, SIM lock, port-out protection",Do not store account PINs here
+Primary bank,Bank,banking,,,"official site only","Lost card, fraud, replacement card",Do not store account numbers here
+Insurance carrier,Insurance,insurance,,,"official site only","Fire, theft, displacement, claims",Use official claim channels
+FTC IdentityTheft.gov,Federal Trade Commission,identity theft,,,"https://www.identitytheft.gov/","Identity theft recovery plan",Reference only
+Ready.gov financial preparedness,FEMA,preparedness,,,"https://www.ready.gov/financial-preparedness","Emergency financial planning reference",Reference only

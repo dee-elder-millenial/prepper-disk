@@ -1,0 +1,11 @@
+account_name,category,provider,recovery_url_or_phone,primary_recovery_method,backup_recovery_method,encrypted_vault_location_hint,priority,last_checked,status_notes
+Primary email,email,example-provider,official site only,email/phone/hardware key,encrypted vault only,vaults README hint,1,YYYY-MM-DD,Do not enter passwords or recovery codes
+Phone carrier/SIM,phone,example-carrier,official support only,account PIN on official channel,store PIN only in encrypted vault,vaults README hint,2,YYYY-MM-DD,Do not enter PINs or personal IDs
+Password manager,vault,example-manager,official recovery page only,provider recovery process,encrypted emergency kit only,vaults README hint,3,YYYY-MM-DD,Do not enter master password or secret key
+Bank/card,banking,example-bank,official number/site only,verified support channel,encrypted vault only,vaults README hint,4,YYYY-MM-DD,Do not enter account/card numbers
+Google,cloud,Google,official account recovery only,recovery email/phone/passkey,encrypted vault only,vaults README hint,5,YYYY-MM-DD,Do not enter backup codes
+Apple,cloud,Apple,official account recovery only,trusted device/phone,encrypted vault only,vaults README hint,5,YYYY-MM-DD,Do not enter recovery key
+Microsoft,cloud,Microsoft,official account recovery only,authenticator/email/phone,encrypted vault only,vaults README hint,5,YYYY-MM-DD,Do not enter backup codes
+GitHub,developer,GitHub,official account recovery only,email/MFA recovery,encrypted vault only,vaults README hint,6,YYYY-MM-DD,Do not enter tokens or SSH keys
+OpenAI,developer,OpenAI,official help/account pages only,email/SSO/MFA,encrypted vault only,vaults README hint,6,YYYY-MM-DD,Do not enter API keys
+Credit bureaus,identity,Equifax/Experian/TransUnion,official sites only,identity verification,encrypted vault only,vaults README hint,7,YYYY-MM-DD,Do not enter SSN or freeze PINs

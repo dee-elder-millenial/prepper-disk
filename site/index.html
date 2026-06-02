@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Prepper Disk</title>
+    <link rel="stylesheet" href="assets/styles.css">
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <h1>Prepper Disk</h1>
+        <p id="statusLine">Loading local archive index...</p>
+      </div>
+      <div class="status-pill">your-server.local</div>
+    </header>
+
+    <main>
+      <section class="metrics" aria-label="Archive summary">
+        <div>
+          <span class="label">Files</span>
+          <strong id="fileCount">0</strong>
+        </div>
+        <div>
+          <span class="label">Size</span>
+          <strong id="totalSize">0 B</strong>
+        </div>
+        <div>
+          <span class="label">Generated</span>
+          <strong id="generatedAt">Unknown</strong>
+        </div>
+      </section>
+
+      <section class="metrics secondary" aria-label="System status">
+        <div>
+          <span class="label">Disk Free</span>
+          <strong id="diskFree">Unknown</strong>
+        </div>
+        <div>
+          <span class="label">Rclone</span>
+          <strong id="rcloneStatus">Unknown</strong>
+        </div>
+        <div>
+          <span class="label">Web Service</span>
+          <strong id="webStatus">Unknown</strong>
+        </div>
+      </section>
+
+      <section class="toolbar" aria-label="Search files">
+        <input id="search" type="search" placeholder="Search local archive">
+        <button id="clearSearch" type="button">Clear</button>
+      </section>
+
+      <section class="library-shell" aria-label="Browse archive">
+        <aside class="category-panel">
+          <h2>Categories</h2>
+          <div id="categories" class="category-list"></div>
+        </aside>
+
+        <div class="file-panel">
+          <div class="section-heading">
+            <div>
+              <h2 id="fileHeading">Files</h2>
+              <p id="resultCount">0 files</p>
+            </div>
+            <a class="source-link" href="files/99_Indexes_and_Checksums/OFFICIAL_SOURCES.md">Sources</a>
+          </div>
+          <div id="fileRows" class="file-grid"></div>
+        </div>
+      </section>
+    </main>
+
+    <script src="assets/app.js"></script>
+  </body>
+</html>

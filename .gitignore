@@ -1,0 +1,32 @@
+# Local/private Prepper Disk content
+/site/data/
+/site/files/
+/logs/
+*.log
+
+# Downloaded content packs and personal records
+/00_README_START_HERE/dees-workbench-codex-handoff.md
+/01_Identity_and_Records/
+/02_Financial/
+/03_Medical/*.pdf
+/03_Medical/*.html
+/04_Home_and_Vehicle/*.pdf
+/04_Home_and_Vehicle/*.html
+/06_Reference_Library/*.pdf
+/07_Tools_and_Software/
+/08_Family_and_Contacts/
+/09_Backups_and_Exports/
+/vaults/
+*.kdbx
+*.age
+*.gpg
+*.key
+*.pem
+*.p12
+*.pfx
+id_*
+*.sqlite
+*.db
+__pycache__/
+.DS_Store
+._*

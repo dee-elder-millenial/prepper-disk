@@ -1,0 +1,5 @@
+# enabled	name	remote_path	local_path	mode
+# Set enabled to yes when you want a source included in sync_drive_sources.sh.
+# mode can be copy or sync. Use copy for append/backup style, sync for exact mirrors.
+no	Uber project	gdrive:Programming/Uber	/srv/cloud-mirror/PrepperDisk/09_Backups_and_Exports/GoogleDrive/Programming/Uber	sync
+

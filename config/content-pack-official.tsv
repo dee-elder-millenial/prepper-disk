@@ -1,0 +1,10 @@
+enabled	category	filename	url	source
+yes	06_Reference_Library	FEMA_Are_You_Ready_Guide.pdf	https://www.ready.gov/sites/default/files/2021-11/are-you-ready-guide.pdf	FEMA Ready.gov Are You Ready Guide
+yes	02_Financial	FEMA_Emergency_Financial_First_Aid_Kit.pdf	https://www.ready.gov/sites/default/files/2020-03/ready_emergency-financial-first-aid-toolkit-checklists-and-forms.pdf	FEMA/Ready.gov Emergency Financial First Aid Kit
+yes	06_Reference_Library	NWS_Severe_Weather_Preparedness.pdf	https://www.weather.gov/media/ind/PrepWeeks/Severe/SEVEREWEATHERPREPAREDNESS.pdf	National Weather Service Severe Weather Preparedness
+yes	04_Home_and_Vehicle	NWS_Hurricane_Safety_Flyer.pdf	https://www.weather.gov/media/safety/hurricane-safety_flyer.pdf	National Weather Service Hurricane Safety Flyer
+yes	03_Medical	CDC_Emergency_Wound_Care_After_Natural_Disaster.pdf	https://www.cdc.gov/disasters/hurricanes/pdf/woundcare.pdf	CDC Emergency Wound Care After a Natural Disaster
+yes	03_Medical	CDC_Prevent_Diarrheal_Illness_After_Disaster.pdf	https://www.cdc.gov/natural-disasters/media/pdfs/2024/08/preventing-diarrheal-illness-after-disaster-english-H.pdf	CDC Preventing Diarrheal Illness After a Disaster
+yes	03_Medical	CDC_Eat_Safe_Food_After_Power_Outage.pdf	https://www.cdc.gov/food-safety/media/pdfs/eat_safe-r5-infographic2-h_1.pdf	CDC Eat Safe Food After a Power Outage
+yes	04_Home_and_Vehicle	CDC_What_You_Need_To_Know_When_The_Power_Goes_Out.pdf	https://emergency.cdc.gov/poweroutage/pdf/poweroutage.pdf	CDC What You Need to Know When the Power Goes Out
+yes	04_Home_and_Vehicle	CDC_Guidelines_for_Cleaning_Safely_After_a_Disaster.html	https://www.cdc.gov/natural-disasters/safety/index.html	CDC Guidelines for Cleaning Safely After a Disaster
